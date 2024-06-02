@@ -1,0 +1,342 @@
+
+  <!-- ======= Hero Section ======= -->
+  <section id="hero" class="hero">
+
+    <div class="info d-flex align-items-center">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-lg-6 text-center">
+            <h2 data-aos="fade-down">SELAMAT DATANG DI <span>LBB SAVIRA WEBSITE</span></h2>
+  
+          </div>
+        </div>
+      </div>
+    </div>
+
+  <div id="hero-carousel" class="carousel slide" data-bs-ride="carousel" data-bs-interval="5000">
+
+      <div class="carousel-item active" style="background-image: url('<?php echo base_url("assets/img/bg-foto/bg-foto4.jpeg");?>')"></div>
+
+    </div>
+
+  </section><!-- End Hero Section -->
+
+  <main id="main">
+    <!-- ======= Constructions Section ======= -->
+    <section id="constructions" class="constructions">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-header">
+          <h2>PROGRAM KAMI</h2>
+          <p>Di Lembaga Bimbingan Belajar Savira Kami Memiliki Program Yang Bisa Diambil Oleh Calon Siswa Di Lembaga Pendidikan Savira. Ada 4 Program Yang Bisa Diambil Di LBB Savira Diantaranya Program Prisma , 
+            Program Calistung , Program Mapel Dan Program Mengaji / AGA (Anak Surga)
+          </p>
+        </div>
+
+        <div class="row gy-4">
+
+          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
+            <div class="card-item">
+              <div class="row">
+                <div class="col-xl-5">
+                  <div class="card-bg" style="background-image: url(assets/img/prisma.jpeg);"></div>
+                </div>
+                <div class="col-xl-7 d-flex align-items-center">
+                  <div class="card-body">
+                    <h4 class="card-title">PROGRAM PRISMA</h4>
+                    <p>PRISMA adalah singkatan dari ( Prestasi Sukses Mental Arimatika ) yang mempunyai
+                      cabang di probolinggo . ini merupakan program unggulan di LBB SAVIRA 
+                      yang cocok untuk anak yang susah berhitung dan sulit menangkap pelajaran matematika.
+                      
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div><!-- End Card Item -->
+
+          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
+            <div class="card-item">
+              <div class="row">
+                <div class="col-xl-5">
+                  <div class="card-bg" style="background-image: url(assets/img/calistung.jpg);"></div>
+                </div>
+                <div class="col-xl-7 d-flex align-items-center">
+                  <div class="card-body">
+                    <h4 class="card-title">PROGRAM CALISTUNG</h4>
+                    <p>Calistung merupakan suatu proses pembelajaran awal yang 
+                      bertujuan untuk mengajarkan anak-anak keterampilan membaca, menulis, dan berhitung.
+                      calistung ini berbeda karena memakai program ABAMA. ABAMA merupakan program unggulan .</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div><!-- End Card Item -->
+
+          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="300">
+            <div class="card-item">
+              <div class="row">
+                <div class="col-xl-5">
+                  <div class="card-bg" style="background-image: url(assets/img/mata.jpeg);"></div>
+                </div>
+                <div class="col-xl-7 d-flex align-items-center">
+                  <div class="card-body">
+                    <h4 class="card-title">PROGRAM MAPEL</h4>
+                    <p> Merupakan program yang dilakukan oleh LBB SAVIRA yang memiliki kredibelitas dan tutor 
+                        lulusan universitas .Program ini mencangkup semua mapel di sekolah yang sudah disekapati 
+                        oleh kedua belah pihak yaitu antara pemilik dan wali murid.
+                      </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div><!-- End Card Item -->
+
+          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="400">
+            <div class="card-item">
+              <div class="row">
+                <div class="col-xl-5">
+                  <div class="card-bg" style="background-image: url(assets/img/agama.jpeg);"></div>
+                </div>
+                <div class="col-xl-7 d-flex align-items-center">
+                  <div class="card-body">
+                    <h4 class="card-title">PROGRAM MENGAJI ATAU AGA (ANAK SURGA)</h4>
+                    <p>merupakan program mengaji yang pastinya membantu anak bunda agar bisa mengaji, bukan hanya mengaji saja 
+                      disini akan diajarkan cara menulis arab, hafalan surah surah pendek dan asih banyak lagi.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div><!-- End Card Item -->
+
+        </div>
+
+      </div>
+    </section><!-- End Constructions Section -->
+
+    <!-- ======= Services Section ======= -->
+    <section id="services" class="bg-info">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-header ">
+          <h2>TENTANG KAMI </h2>
+          <p>LBB Savira yaitu lembaga bimbingan privat (les privat) yang bergerak di bidang pendidikan
+             menyediakan dan menerima Bimbingan Belajar mulai dari jenjang PAUD, TK, SD dan SMP. 
+             Di LBB Savira, tenaga pengajar kami tentunya sudah professional, pengajar menguasai materi 
+             dan telaten, terdapat laporan hasil belajar kepada orang tua, biaya terjangkau dan berkualitas,
+              bisa memilih tentor, hari dan jadwal sesuai kebutuhan. Selain itu, siswa siswi bisa datang ke 
+              tempat les, atau bisa juga pengajar dari LBB Savira datang ke rumah. LBB SAVIRA memiliki unit diantaranya :</p>
+        </div>
+
+        <div class="row gy-2">
+
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
+            <div class="service-item  position-relative">
+              <div class="icon">
+                <i class="fa-solid fa-mountain-city"></i>
+              </div>
+              <h3>CITARUM</h3>
+              <p>Citarum merupakan pusat dari segala cabang yang ada di Probolinggo. disini juga merupakan 
+                pusat administrasi dan pendaftaran siswa. Berada di Jl.Citarum Griya Savira.
+              </p>
+            </div>
+          </div><!-- End Service Item -->
+
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
+            <div class="service-item position-relative">
+              <div class="icon">
+                <i class="fa-solid fa-arrow-up-from-ground-water"></i>
+              </div>
+              <h3>MASTRIP</h3>
+                <p>Mastrip merupakan cabang pertama dimana unit berada di Jl.Mastrip GG.Kelapa 
+                   untuk gang di depan pom bensin mastrip ancer ancer tempat di depan pos kamling </p>
+            </div>
+          </div><!-- End Service Item -->
+
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
+            <div class="service-item position-relative">
+              <div class="icon">
+                <i class="fa-solid fa-compass-drafting"></i>
+              </div>
+              <h3>KETAPANG </h3>
+              <p>merupakan cabang kedua setelah unit mastrip untuk ketapang berada di JL.Krakatau GG.2 
+                untuk ancer-ancer perempatan terus kemudian belok kanan kalian cari banner LBB SAVIRA masuk gang. 
+              </p>
+            </div>
+          </div><!-- End Service Item -->
+
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="400">
+            <div class="service-item position-relative">
+              <div class="icon">
+                <i class="fa-solid fa-trowel-bricks"></i>
+              </div>
+              <h3>SUMBER WETAN </h3>
+              <p>merupakan cabang ketiga berada di perumahan kademangan permata regency Jl.Mangga ancer ancer jika kamu menemukan banner LBB Savira 
+                disitulah tempatnya untuk pembelajaran dilaksanakan sore - malam.
+              </p>
+            </div>
+          </div><!-- End Service Item -->
+
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="500">
+            <div class="service-item position-relative">
+              <div class="icon">
+                <i class="fa-solid fa-helmet-safety"></i>
+              </div>
+              <h3>KEBONSARI WETAN </h3>
+              <p>merupakan unit keempat yang berada di Kebonsari Wetan berada di Jl.Bayusari GG.03 . 
+                Pembelajaran dilaksanakan pada waktu sore - malam hari. </p>
+            </div>
+          </div><!-- End Service Item -->
+
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
+            <div class="service-item position-relative">
+              <div class="icon">
+                <i class="fa-solid fa-arrow-up-from-ground-water"></i>
+              </div>
+              <h3>DRINGU </h3>
+              <p>merupakan cabang kelima dan merupakan cabang pertama yang berada di Kabupaten Probolinggo. 
+                  Perumahan Dringu Kahuripan untuk ancer ancer di belakang alfamidi dan masuk perumahan. 
+              </p>
+            </div>
+          </div><!-- End Service Item -->
+
+        </div>
+
+      </div>
+    </section><!-- End Services Section -->
+
+ <section id="services" class="services sections-bg">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-header">
+        <h2>TUTOR KAMI</h2>
+        <p>Tutor kami merupakan tutor yang kompeten di bidangnya dimana tutor kami juga lulusan dan 
+            masih menempuh di Perguruan tinggi tutor kami diantaranya adalah sebagai berikut </p>
+      </div><!-- End Section Title -->
+
+      <div class="container">
+
+        <div class="row gy-5">
+
+          <div class="col-lg-4 col-md-6 member" data-aos="fade-up" data-aos-delay="100">
+            <div class="member-img">
+              <img src="assets/img/nabila.jpeg" class="img-fluid" alt="">
+            </div>
+            <div class="member-info text-center">
+              <h4>KAK NABILA</h4>
+              <span>LULUSAN UMM 2024</span>
+              <p>Merupakan tutor admin sekaligus pengajar mapel khusunya bahasa inggris. Kak Nabila 
+                sangat fasih dalam berbicara bahasa inggris
+              </p>
+            </div>
+          </div><!-- End Team Member -->
+
+          <div class="col-lg-4 col-md-6 member" data-aos="fade-up" data-aos-delay="200">
+            <div class="member-img">
+              <img src="assets/img/albara.jpeg" class="img-fluid" alt="">
+             
+            </div>
+            <div class="member-info text-center">
+              <h4>KAK ALBARA</h4>
+              <span>MENEMPUH KULIAH DI UPM</span>
+              <p>Merupakan tutor admin sekaligus pengajar mapel kelas tinggi yaitu SMP khususnya matematika.
+                Kak Albara sangat ramah loh orangnya
+              </p>
+            </div>
+          </div><!-- End Team Member -->
+
+          <div class="col-lg-4 col-md-6 member" data-aos="fade-up" data-aos-delay="300">
+            <div class="member-img">
+              <img src="assets/img/yulia.jpeg" class="img-fluid" alt="">
+              
+            </div>
+            <div class="member-info text-center">
+              <h4>KAK YULIA</h4>
+              <span>MENEMPUH KULIAH DI UT </span>
+              <p>Merupakan seorang tutor berpengalaman di bidang calistung. mampu mengajar anak sampai bisa 
+                membaca, berhitung dan menulis.
+              </p>
+            </div>
+          </div><!-- End Team Member -->
+
+          <div class="col-lg-4 col-md-6 member" data-aos="fade-up" data-aos-delay="400">
+            <div class="member-img">
+              <img src="assets/img/cosim.jpeg" class="img-fluid" alt="">
+             
+            </div>
+            <div class="member-info text-center">
+              <h4>KAK KOSIM</h4>
+              <span>LULUSAN POLIJE JEMBER 2022 </span>
+              <p>Merupakan tutor PRISMA Kalkulator tangan yang sudah berkompeten di bidangnya 
+                lulusan polije jember dengan predikat comlaude.
+              </p>
+            </div>
+          </div><!-- End Team Member -->
+
+          <div class="col-lg-4 col-md-6 member" data-aos="fade-up" data-aos-delay="500">
+            <div class="member-img">
+              <img src="assets/img/maula.jpeg" class="img-fluid" alt="">
+              
+            </div>
+            <div class="member-info text-center">
+              <h4>KAK MAULA</h4>
+              <span>LULUSAN TRUNOJOYO MADURA</span>
+              <p>Merupakan tutor suhu yang sekarang juga menagajar di sekolah di Probolinggo
+                harapannya ilmu yang didapat di sekolah bisa diimplementasikan di Savira
+              </p>
+            </div>
+          </div><!-- End Team Member -->
+
+          <div class="col-lg-4 col-md-6 member" data-aos="fade-up" data-aos-delay="600">
+            <div class="member-img">
+              <img src="assets/img/salsa.jpeg" class="img-fluid" alt="">
+             
+            </div>
+            <div class="member-info text-center">
+              <h4>KAK SALSA</h4>
+              <span>LULUS SMA DAN PONDOKAN</span>
+              <p>Merupakan tutor baca dan tulis yang dikenal karena kesabarannya dan keuletannya dalam mengajar anak
+                Kak Salsa juga dikenal pinter bercanda dan mampu mengusir kebosenan anak dalam belajar
+                
+              </p>
+            </div>
+          </div><!-- End Team Member -->
+
+        </div>
+
+      </div>
+
+    </section><!-- /Team Section -->
+
+  </main><!-- End #main -->
+
+  <!DOCTYPE html>
+  <html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" 
+    integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  </head>
+  <body>
+    <footer>
+    <div class="footerContainer">
+      <div class="kata">
+        <p>HUBUNGI KAMI DARI SOSIAL MEDIA DIBAWAH</p>
+      </div>
+  <div class="sosialicon">
+    
+    <a href="https://www.facebook.com/profile.php?id=100018149648830&mibextid=4J2JsaAoA4Cm3TUo"><i class="fa-brands fa-facebook"></i></a>
+    <a href="https://wa.me/62895379906042/?text=hello"><i class="fa-brands fa-whatsapp"></i></a>
+    <a href="https://www.tiktok.com/@bang._.ahmad?_t=8m9S44Owy85&_r=1"><i class="fa-brands fa-tiktok"></i></a>
+  </div>
+  <div class="footerbottom">
+   <p>Copyright &copy;2024 : Design by <span class="designer">KAMIL NUNUNG</span></p>
+  </div>
+</div>
+    </footer>
+  </body>
+  </html>
